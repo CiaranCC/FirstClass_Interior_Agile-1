@@ -3,4 +3,4 @@ Description of Project: We are a company called Smith Private Limited. Our compa
 
 Purpose: First Class Interiors company is looking for a website that is interactive and user friendly. This is so they can promote their business country wide.
 
-Your Company Credit: All credit goes to Smith Private Limited.
+Your Company Credit: All credit goes to Product Owner (Kevin_Jabeom_Gu), Scrum Master (Ciaran), Developer (Connor) ans Stakeholder (Alesha)
